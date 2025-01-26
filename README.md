@@ -61,4 +61,4 @@ Me considero una persona comprometida con la excelencia. Disfruto de los proyect
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![PlabloTech25' GitHub stats](https://github-readme-stats.vercel.app/api?username=PlabloTech25&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTech25&layout=compact&theme=dark)
+![PlabloTech25' GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloTech25&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTech25&layout=compact&theme=dark)
